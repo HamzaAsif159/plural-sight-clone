@@ -1,2 +1,2 @@
 # plural-sight-clone
-Plural Sight Clone
+Made it using HTML and CSS to practice Flexbox.
